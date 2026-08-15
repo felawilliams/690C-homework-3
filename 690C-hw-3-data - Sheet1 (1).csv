@@ -1,0 +1,6 @@
+name,SuperVit,NewHealth,rhs,sense
+C,20,30,60,GE
+calcium,500,250,1000,GE
+iron,9,2,18,GE
+niacin,2,10,20,GE
+magnesium,60,90,360,GE
